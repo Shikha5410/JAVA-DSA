@@ -13,10 +13,21 @@ This repository contains my daily practice programs for Data Structures and Algo
 - Pattern printing
 
 ### 🔹 Arrays
-- Searching
-- Max/Min
-- Array manipulation
-- Important problems
 
+#### 📁 Problems Implemented
+- `LinearSearch.java`
+- `MaxMinElement.java`
+- `ReverseArray.java`
+- `LeftRotate.java`
+- `MoveZeros.java`
+- `FindDuplicate.java`
+- `RemoveDuplicate.java`
+- `MissingNumber.java`
+- `PairsInArray.java`
+- `PrefixSum.java`
+- `KadaneAlgorithm.java`
+- `SecondLargestElement.java`
+- `SubArraySum.java`
+  
 ## 🎯 Goal
 To build strong problem-solving skills and prepare for technical interviews and placements.
